@@ -1,6 +1,7 @@
 import random
 
 # Usar ipython para mas diversion
+# Do wath she said, its funny xd
 
 def generate_random_list(length, min_val=-10, max_val=10):
     """Generates a list of random integers of the specified length."""
