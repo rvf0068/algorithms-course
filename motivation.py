@@ -101,3 +101,4 @@ def max_subarray_kadane(A):
             end_index = i
     return max_so_far, start_index, end_index
 
+#El dia de hoy 22 de enero realizamos una maravillosa practica en el laboratorio de compuatacion!!!!!!
