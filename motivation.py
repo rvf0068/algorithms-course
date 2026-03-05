@@ -1,3 +1,4 @@
+###Estas funciones se vieron el dia de 21 de Enero del 2026 ####
 import random
 
 def generate_random_list(length, min_val=-10, max_val=10):
