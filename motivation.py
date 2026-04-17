@@ -1,5 +1,5 @@
 import random
-
+#Estas funciones se observaron el dia 21 de Enero del 2026 del semestre
 def generate_random_list(length, min_val=-10, max_val=10):
     """Generates a list of random integers of the specified length."""
     return [random.randint(min_val, max_val) for _ in range(length)]
