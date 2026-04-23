@@ -1,3 +1,5 @@
+#Primeras funciones del curso de algoritmos del prof Villarroel, vistas en la clase de hoy 22 de enero de 2026
+
 import random
 #Estas funciones se observaron el dia 21 de Enero del 2026 del semestre
 def generate_random_list(length, min_val=-10, max_val=10):
