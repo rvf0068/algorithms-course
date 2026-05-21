@@ -6,3 +6,4 @@ Aquí se ponen las direcciones en github de sus repositorios
 - https://github.com/Calambres199/Sudoku (Jared, Ariz)
 - https://github.com/or360580/Domgpy (Guillermo)
 - https://github.com/JesusAmador25/hammindist (Sarai, Belinda, Roberto, Jesus)
+- https://github.com/SantiagoJimenez19/Proyecto (santiago)
